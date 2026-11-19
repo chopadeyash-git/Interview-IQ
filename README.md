@@ -246,4 +246,6 @@ Contributions are welcome! Please follow these steps:
 ## 👨‍💻 Author
 
 **Yash Chopade**  
+- GitHub: [@chopadeyash-git](https://github.com/chopadeyash-git)
+- Live App: [InterviewIQ](https://interview-iq-three-xi.vercel.app/)
 
